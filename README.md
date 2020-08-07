@@ -21,7 +21,7 @@ In Collaboration With IBM
 
 ### Course 1
 >Data Science Certification Training - R Programming
-  *Module 1 - Introduction 
+  >Module 1 - Introduction 
 ### Course 2
 >Data Science with Python
   
