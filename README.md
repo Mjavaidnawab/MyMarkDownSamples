@@ -8,7 +8,7 @@
 
 octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-This sample is designed for Mr. Khaledimad for his Data Science 20 project to format his Readme.md files and link of my github is as 
+This sample is designed for freelancing work online his Data Science 20 project to format his Readme.md files and link of my github is as 
 https://github.com/Mjavaidnawab/MyMarkDownSamples/edit/master/README.md
 
 
